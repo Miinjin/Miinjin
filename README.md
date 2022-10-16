@@ -25,5 +25,7 @@
 &nbsp;
 
 ### More Info&Protfoilo
-[!alt text](img.jpg)[Instagram](https://www.instagram.com/da_aria_d/?hl=ko)
-[!alt text](img.jpg)[Figma](https://www.figma.com/file/xZR2BoUL1UzMK53HTb9xUY/Web-Design?node-id=114%3A1047)
+<img width=50px src="https://user-images.githubusercontent.com/62200762/196027288-b7ba49e7-8191-4bba-83a5-05dc8010bf36.png">
+[Instagram](https://www.instagram.com/da_aria_d/?hl=ko)
+&nbsp;
+[Figma](https://www.figma.com/file/xZR2BoUL1UzMK53HTb9xUY/Web-Design?node-id=114%3A1047)
