@@ -21,3 +21,9 @@
 
 ## Git Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miinjin&show_icons=true&theme=dark)
+
+&nbsp;
+
+### More Info&Protfoilo
+[!alt text](img.jpg)[Instagram](https://www.instagram.com/da_aria_d/?hl=ko)
+[!alt text](img.jpg)[Figma](https://www.figma.com/file/xZR2BoUL1UzMK53HTb9xUY/Web-Design?node-id=114%3A1047)
