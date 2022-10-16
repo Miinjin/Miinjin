@@ -24,8 +24,12 @@
 
 &nbsp;
 
-### More Info&Protfoilo
+## More Info&Protfoilo
 <img width=50px src="https://user-images.githubusercontent.com/62200762/196027288-b7ba49e7-8191-4bba-83a5-05dc8010bf36.png">
 [Instagram](https://www.instagram.com/da_aria_d/?hl=ko)
+
 &nbsp;
+&nbsp;
+
+<img width=100px src="https://user-images.githubusercontent.com/62200762/196027467-5e4814e5-e22d-4c5a-96d2-2f94513af6dd.png">
 [Figma](https://www.figma.com/file/xZR2BoUL1UzMK53HTb9xUY/Web-Design?node-id=114%3A1047)
