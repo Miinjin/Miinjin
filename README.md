@@ -5,7 +5,7 @@
 - 📖 전공: 중국학과, 빅데이터학과
 - 🥳 취미: 넷플릭스, DIY, 요리, 그림그리기
 - 🌱 요즘 배우는 것: Three.js, 일본어
-- 🛠 사용 기술:  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
+- 🛠 사용 기술:  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-1572B6?style=flat&logo=JavaScript&logoColor=white"/> 
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
