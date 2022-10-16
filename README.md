@@ -3,7 +3,7 @@
 &nbsp;
 
 ## 코딩하는 디자이너, 김민진입니다 😆
-
+<img width=180px src="https://user-images.githubusercontent.com/62200762/196028078-edb19696-be22-4da2-9d04-6880b8268099.JPG">
 - 🙍‍♀️ 나이: 22세
 - 🎓 학력: 한림대학교
 - 📖 전공: 중국학과, 빅데이터학과
