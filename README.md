@@ -1,9 +1,10 @@
-## Thankyou to invite me 😻
+### Thankyou to invite me 😻
 
-### Name: Minjin Kim
-### Age: 22
-### Univ: Hallym University
-### Major: Chinese Study
+- Name: Minjin Kim
+- Age: 22
+- Univ: Hallym University
+- Major: Chinese Study
+- Hobby: Netflix, Cooking, DIY, Drawing
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
