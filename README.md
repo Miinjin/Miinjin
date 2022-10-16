@@ -5,7 +5,7 @@
 - 📖 전공: 중국학과, 빅데이터학과
 - 🥳 취미: 넷플릭스, DIY, 요리, 그림그리기
 - 🌱 요즘 배우는 것: Three.js, 일본어
-- 🛠 사용 기술: https://img.shields.io/badge/</img src="React-61DAFB?style=social&logo=React&logoColor=white"/>
+- 🛠 사용 기술:  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Illustrator&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
