@@ -1,3 +1,7 @@
+# Introduce
+
+&nbsp;
+
 ## 코딩하는 디자이너, 김민진입니다 😆
 
 - 🙍‍♀️ 나이: 22세
@@ -10,7 +14,7 @@
 
 &nbsp;
 
-## 프로그래밍 시 사용 언어
+## Rranking of Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miinjin&langs_count=8)](https://github.com/Miinjin/github-readme-stats)
 
 &nbsp;
