@@ -29,4 +29,6 @@
 &nbsp;
 
 <img width=100px src="https://user-images.githubusercontent.com/62200762/196027467-5e4814e5-e22d-4c5a-96d2-2f94513af6dd.png">
-[Figma](https://www.figma.com/file/xZR2BoUL1UzMK53HTb9xUY/Web-Design?node-id=114%3A1047)
+[Figma](https://www.figma.com/file/4HDlqeCZYdnEY0bMP64vis/Project?type=design&node-id=1%3A4500&t=lZeRbHZJ8KHnMddz-1)
+
+
