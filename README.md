@@ -16,11 +16,6 @@
 
 &nbsp;
 
-## Git Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miinjin&show_icons=true&theme=dark)
-
-&nbsp;
-
 ## More Info&Protfoilo
 <img width=50px src="https://user-images.githubusercontent.com/62200762/196027288-b7ba49e7-8191-4bba-83a5-05dc8010bf36.png">
 [Instagram](https://www.instagram.com/da_aria_d/?hl=ko)
